@@ -14,3 +14,7 @@ Nền tảng kiểm toán bảo mật và gia cố hệ thống Windows (Enterpr
 2. Cài đặt các thư viện cần thiết:
    ```bash
    pip install -r requirements.txt# secops-sentinel-pro
+## 📥 Tải xuống ứng dụng (Windows)
+👉 **[Tải về SecOps_Sentinel_Pro.exe (v1.0.0 - Portable)](https://github.com/thanhthaithai233-lang/secops-sentinel-pro/releases/download/v1.0.0/SecOps_Sentinel_Pro.exe)** *(Chạy trực tiếp, không cần cài Python)*
+
+> **Lưu ý khi mở lần đầu:** Bấm chuột phải vào tệp vừa tải → chọn **Run as administrator**. Nếu Windows SmartScreen hiện hộp thoại bảo vệ, chọn **More info** → **Run anyway**.
